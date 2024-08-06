@@ -15,4 +15,4 @@
 
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=au-to&show_icons=true&theme=radical)
  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=au-to&layout=compact&theme=radical)
- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=au-to&repo=your-repo&theme=radical)](https://github.com/your-username/your-repo)
+ [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=au-to&repo=notebook&theme=radical)](https://github.com/au-to/notebook)
