@@ -37,6 +37,6 @@
 - 🔭 I’m currently working on ... (it's a secret now!)
 - 🌱 I’m currently learning and improving my skills in **React** and **Python**.
 - 💬 My blog: [https://www.ryan-blog.cn](https://www.ryan-blog.cn)
-- 📫 My resume: [https://hacknical.com/au-to/resume?locale=zh](https://hacknical.com/au-to/resume?locale=zh)
+- 📫 My resume: [https://au-to.github.io/my-resume](https://au-to.github.io/my-resume)
 
 ---
