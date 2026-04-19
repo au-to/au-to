@@ -2,7 +2,7 @@
  I'm Ryan,a front-end engineer from China.
 - 🔭 I’m currently working on ? (it's a secret now!)
 - 🌱 I’m currently learning React and Python
-- 💬 My blog：https://www.ryan-blog.cn
+- 💬 My blog：https://au-to.github.io/personal-blog
 - 📫 My resume：https://hacknical.com/au-to/resume?locale=zh -->
 
 
@@ -36,7 +36,7 @@
 
 - 🔭 I’m currently working on ... (it's a secret now!)
 - 🌱 I’m currently learning and improving my skills in **React** and **Python**.
-- 💬 My blog: [https://www.ryan-blog.cn](https://www.ryan-blog.cn)
+- 💬 My blog: [https://au-to.github.io/personal-blog](https://au-to.github.io/personal-blog)
 - 📫 My resume: [https://au-to.github.io/my-resume](https://au-to.github.io/my-resume)
 
 ---
